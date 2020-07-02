@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<script type="text/javascript" src="//cdn.bannersnack.com/iframe/embed.js"></script>
-
 ![Hit counter](http://hits.dwyl.com/thejessicafelts/thejessicafelts/thejessicafelts.svg)
 
 </div>
