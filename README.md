@@ -1,10 +1,10 @@
 <div align="center">
 
-<br />
+  <br />
 
-[![Welcome to the official GitHub profile of @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/thejessicafelts-github-banner.gif)](https://www.linkedin.com/in/thejessicafelts)
+  [![Welcome to the official GitHub profile of @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/thejessicafelts-github-banner.gif)](https://www.linkedin.com/in/thejessicafelts)
 
-<br />
+  <br />
 
 </div> 
 
@@ -14,10 +14,18 @@
 💌 &nbsp; <strong>Contact Me &nbsp; &mdash;</strong> &nbsp; @thejessicafelts on all social platforms<br />
 ⚡ &nbsp; <strong>Fun Fact &nbsp; &mdash;</strong> &nbsp; I'm a self-taught developer with a love for learning
 
+<div align="center" class="social links">
+
+  <br />
+
+  [Twitter](https://www.twitter.com/thejessicafelts) &nbsp; <strong>&centerdot;</strong> &nbsp; [Instagram](https://www.instagram.com/thejessicafelts) &nbsp; <strong>&centerdot;</strong> &nbsp; [LinkedIn](https://www.linkedin.com/in/thejessicafelts)
+
+</div>
+
 <div align="center">
 
-<br />
+  <br />
 
-![View Counter](http://hits.dwyl.com/thejessicafelts/thejessicafelts/thejessicafelts.svg)
+  ![View Counter](http://hits.dwyl.com/thejessicafelts/thejessicafelts/thejessicafelts.svg)
 
 </div>
