@@ -17,8 +17,28 @@
 <div align="center" class="social links">
 
   <br />
+  
+  <span width="30">
 
-  [Twitter](https://www.twitter.com/thejessicafelts) &nbsp; <strong>&centerdot;</strong> &nbsp; [Instagram](https://www.instagram.com/thejessicafelts) &nbsp; <strong>&centerdot;</strong> &nbsp; [LinkedIn](https://www.linkedin.com/in/thejessicafelts)
+  [![Twitter @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/twitter.png)](https://www.twitter.com/thejessicafelts)
+
+  </span>
+  
+  &nbsp; <strong>&centerdot;</strong> &nbsp;
+  
+  <span width="30">
+  
+  [![Instagram @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/instagram-sketched.png)](https://www.instagram.com/thejessicafelts)
+  
+  </span>
+  
+  &nbsp; <strong>&centerdot;</strong> &nbsp;
+  
+  <span width="30">
+
+  [![LinkedIn @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/linkedin.png)](https://www.linkedin.com/in/thejessicafelts)
+
+  </span>
 
 </div>
 
