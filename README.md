@@ -18,15 +18,9 @@
 
   <br />
 
-  [![Twitter @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/icon-twitter.png)](https://www.twitter.com/thejessicafelts)
-  
-  &nbsp; <strong>&centerdot;</strong> &nbsp;
-  
-  [![Instagram @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/icon-instagram.png)](https://www.instagram.com/thejessicafelts)
+### &mdash; Let's Connect &mdash;
 
-  &nbsp; <strong>&centerdot;</strong> &nbsp;
-
-  [![LinkedIn @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/icon-linkedin.png)](https://www.linkedin.com/in/thejessicafelts)
+[![Twitter @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/icon-twitter.png)](https://www.twitter.com/thejessicafelts) &nbsp; &nbsp; [![Instagram @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/icon-instagram.png)](https://www.instagram.com/thejessicafelts) &nbsp; &nbsp; [![LinkedIn @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/icon-linkedin.png)](https://www.linkedin.com/in/thejessicafelts)
 
 </div>
 
