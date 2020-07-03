@@ -14,31 +14,19 @@
 💌 &nbsp; <strong>Contact Me &nbsp; &mdash;</strong> &nbsp; @thejessicafelts on all social platforms<br />
 ⚡ &nbsp; <strong>Fun Fact &nbsp; &mdash;</strong> &nbsp; I'm a self-taught developer with a love for learning
 
-<div align="center" class="social links">
+<div align="center">
 
   <br />
-  
-  <span width="30">
 
-  [![Twitter @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/twitter.png)](https://www.twitter.com/thejessicafelts)
-
-  </span>
+  [![Twitter @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/icon-twitter.png)](https://www.twitter.com/thejessicafelts)
   
   &nbsp; <strong>&centerdot;</strong> &nbsp;
   
-  <span width="30">
-  
-  [![Instagram @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/instagram-sketched.png)](https://www.instagram.com/thejessicafelts)
-  
-  </span>
-  
+  [![Instagram @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/icon-instagram.png)](https://www.instagram.com/thejessicafelts)
+
   &nbsp; <strong>&centerdot;</strong> &nbsp;
-  
-  <span width="30">
 
-  [![LinkedIn @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/linkedin.png)](https://www.linkedin.com/in/thejessicafelts)
-
-  </span>
+  [![LinkedIn @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/icon-linkedin.png)](https://www.linkedin.com/in/thejessicafelts)
 
 </div>
 
