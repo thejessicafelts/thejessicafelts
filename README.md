@@ -29,8 +29,6 @@
 
   <br />
 
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7670072&style=0001&nbdigits=5&type=page&initCount=2772" title="Total Website Hits" Alt="Web Hits"   border="0" /></a>
+![](https://komarev.com/ghpvc/?username=thejessicafelts&label=Visitors&color=cd395e)
 
 </div>
