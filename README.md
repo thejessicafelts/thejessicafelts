@@ -29,6 +29,8 @@
 
   <br />
 
-<div id="sfc9an1ca2gtj5f9jbz5t6f9eneudsqggfs"></div><br><a href="https://www.freecounterstat.com"></a><noscript><a href="https://www.freecounterstat.com" title=""><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=9an1ca2gtj5f9jbz5t6f9eneudsqggfs" border="0" title="free counters" alt=""></a></noscript>
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7670072&style=0001&nbdigits=5&type=page&initCount=2772" title="Total Website Hits" Alt="Web Hits"   border="0" /></a>
 
 </div>
