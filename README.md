@@ -29,6 +29,6 @@
 
   <br />
 
-<a href="https://www.freecounterstat.com" title="free counters"><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=9an1ca2gtj5f9jbz5t6f9eneudsqggfs" border="0" title="free counters" alt="free counters"></a>
+<div id="sfc9an1ca2gtj5f9jbz5t6f9eneudsqggfs"></div><br><a href="https://www.freecounterstat.com"></a><noscript><a href="https://www.freecounterstat.com" title=""><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=9an1ca2gtj5f9jbz5t6f9eneudsqggfs" border="0" title="free counters" alt=""></a></noscript>
 
 </div>
