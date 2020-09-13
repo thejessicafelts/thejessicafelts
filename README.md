@@ -29,6 +29,6 @@
 
   <br />
 
-  ![View Counter](http://hits.dwyl.com/thejessicafelts/thejessicafelts/thejessicafelts.svg)
+<a href="https://www.freecounterstat.com" title="free counters"><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=9an1ca2gtj5f9jbz5t6f9eneudsqggfs" border="0" title="free counters" alt="free counters"></a>
 
 </div>
