@@ -28,6 +28,10 @@
 <div align="center">
 
   <br />
+  
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source-200x33.png)](https://github.com/firstcontributions/open-source-badges)
+
+  <br />
 
 ![](https://komarev.com/ghpvc/?username=thejessicafelts&label=Visitors&color=cd395e)
 
