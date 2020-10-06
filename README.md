@@ -1,5 +1,12 @@
-<div align="center">
+     
+    NOTICE: Taking a Break!
+    -----------------------------------------------------------------------
+    I just moved, and will be taking a 2-week break from development - from
+    September 27th to October 10th, while we get settled into our new home!
+     
 
+<div>
+  
   <br />
 
   [![Welcome to the official GitHub profile of @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/thejessicafelts-github-banner.gif)](https://www.linkedin.com/in/thejessicafelts)
