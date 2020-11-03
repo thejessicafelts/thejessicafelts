@@ -16,8 +16,9 @@
 </div> 
 
 👩🏻 &nbsp; <strong>Jessica Felts &nbsp; &mdash;</strong> &nbsp; 27-years-old &nbsp; <strong>&centerdot;</strong> &nbsp; She/Her<br />
-👩🏻‍💻 &nbsp; <strong>Current Job &nbsp; &mdash;</strong> &nbsp; UI Developer (Marketing, Salesforce) at [UWM](http://www.uwm.com): The #1 Wholesale Mortgage Lender in the US<br />
+👩🏻‍💻 &nbsp; <strong>Current Job &nbsp; &mdash;</strong> &nbsp; Frontend Developer of eCommerce at [Summit Sports](http://www.summitsports.com)<br />
 👩🏻‍💻 &nbsp; <strong>Alumna Of &nbsp; &mdash;</strong> &nbsp; 
+  [UWM](https://www.uwm.com/) &nbsp; <strong>&centerdot;</strong> &nbsp;
   [Organic](https://www.organic.com/) &nbsp; <strong>&centerdot;</strong> &nbsp; 
   [Fluid (Now ConfigureID)](https://www.fluid.com/) &nbsp; <strong>&centerdot;</strong> &nbsp; 
   [iwerk](https://www.iwerk.com/) &nbsp; <strong>&centerdot;</strong> &nbsp; 
