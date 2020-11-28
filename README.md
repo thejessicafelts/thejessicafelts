@@ -1,10 +1,3 @@
-     
-    NOTICE: Taking a Break!
-    -----------------------------------------------------------------------
-    I just moved, and will be taking a 6-week break from development - from
-    September 27th to November 7th, while we get settled into our new home!
-     
-
 <div>
   
   <br />
