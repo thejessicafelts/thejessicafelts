@@ -1,25 +1,12 @@
-<div>
-  
-  <br />
-
-  [![Welcome to the official GitHub profile of @thejessicafelts](https://raw.githubusercontent.com/thejessicafelts/thejessicafelts/master/thejessicafelts-github-banner.gif)](https://www.linkedin.com/in/thejessicafelts)
-
-  <br />
-
 </div> 
 
-👩🏻 &nbsp; <strong>Jessica Felts &nbsp; &mdash;</strong> &nbsp; 28-years-old &nbsp; <strong>&centerdot;</strong> &nbsp; She/Her<br />
-👩🏻‍💻 &nbsp; <strong>Current Job &nbsp; &mdash;</strong> &nbsp; Frontend Developer of eCommerce at [Summit Sports](http://www.summitsports.com)<br />
-👩🏻‍💻 &nbsp; <strong>Alumna Of &nbsp; &mdash;</strong> &nbsp; 
-  [UWM](https://www.uwm.com/) ([$UWMC](https://www.marketwatch.com/investing/stock/uwmc)) &nbsp; <strong>&centerdot;</strong> &nbsp;
-  [Organic](https://www.organic.com/) &nbsp; <strong>&centerdot;</strong> &nbsp; 
-  [Fluid (Now ConfigureID)](https://configureid.com/) &nbsp; <strong>&centerdot;</strong> &nbsp; 
-  [iwerk](https://www.iwerk.com/) &nbsp; <strong>&centerdot;</strong> &nbsp; 
-  [LyonsCG (Now Capgemini)](https://www.capgemini.com/)<br />
+<strong>Jessica Felts</strong> is a UI Developer and Accessibility Advocate working remotely from Michigan.
+
+<br /><br />
+
 🗨️ &nbsp; <strong>Ask Me About &nbsp; &mdash;</strong> &nbsp; UI Development &nbsp; <strong>&centerdot;</strong> &nbsp; UX Design &nbsp; <strong>&centerdot;</strong> &nbsp; Accessibility &nbsp; <strong>&centerdot;</strong> &nbsp; Salesforce<br />
-💌 &nbsp; <strong>Contact Me &nbsp; &mdash;</strong> &nbsp; @thejessicafelts on all social platforms<br />
-⚡ &nbsp; <strong>Fun Fact &nbsp; &mdash;</strong> &nbsp; I'm a self-taught developer with a love for learning<br />
-:crystal_ball: &nbsp; <strong>What Does the Future Hold? &nbsp; &mdash;</strong> &nbsp; I have no idea!
+💌 &nbsp; <strong>Contact Me &nbsp; &mdash;</strong> &nbsp; @thejessicafelts on all social platforms.<br />
+⚡ &nbsp; <strong>Fun Fact &nbsp; &mdash;</strong> &nbsp; I'm a self-taught developer with a love for learning.<br />
 
 <div align="center">
 
