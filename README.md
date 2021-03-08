@@ -2,7 +2,7 @@
 
 <strong>Jessica Felts</strong> is a UI Developer and Accessibility Advocate working remotely from Michigan.
 
-<br /><br />
+<br />
 
 🗨️ &nbsp; <strong>Ask Me About &nbsp; &mdash;</strong> &nbsp; UI Development &nbsp; <strong>&centerdot;</strong> &nbsp; UX Design &nbsp; <strong>&centerdot;</strong> &nbsp; Accessibility &nbsp; <strong>&centerdot;</strong> &nbsp; Salesforce<br />
 💌 &nbsp; <strong>Contact Me &nbsp; &mdash;</strong> &nbsp; @thejessicafelts on all social platforms.<br />
