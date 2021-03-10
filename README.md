@@ -1,9 +1,7 @@
 </div> 
 
-<strong>Jessica Felts</strong> is a UI Developer and Accessibility Advocate working remotely from Michigan.
-
-<br />
-
+<strong>Jessica Felts</strong> is a Software Engineer and Accessibility Advocate, currently focusing on [Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/) Development, and working remotely from Michigan.
+<br /><br />
 🗨️ &nbsp; <strong>Ask Me About &nbsp; &mdash;</strong> &nbsp; UI Development &nbsp; <strong>&centerdot;</strong> &nbsp; UX Design &nbsp; <strong>&centerdot;</strong> &nbsp; Accessibility &nbsp; <strong>&centerdot;</strong> &nbsp; Salesforce<br />
 💌 &nbsp; <strong>Contact Me &nbsp; &mdash;</strong> &nbsp; @thejessicafelts on all social platforms.<br />
 ⚡ &nbsp; <strong>Fun Fact &nbsp; &mdash;</strong> &nbsp; I'm a self-taught developer with a love for learning.<br />
