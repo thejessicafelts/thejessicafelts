@@ -5,7 +5,10 @@
 🗨️ &nbsp; <strong>Ask Me About &nbsp; &mdash;</strong> &nbsp; Salesforce &nbsp; <strong>&centerdot;</strong> &nbsp; UI Development &nbsp; <strong>&centerdot;</strong> &nbsp; UX Design &nbsp; <strong>&centerdot;</strong> &nbsp; Accessibility<br />
 💌 &nbsp; <strong>Contact Me &nbsp; &mdash;</strong> &nbsp; @thejessicafelts on all social platforms.<br />
 ⚡ &nbsp; <strong>Fun Fact &nbsp; &mdash;</strong> &nbsp; I'm a self-taught developer with a love for learning.
-<br /><hr>
+<br />
+
+<div style="display:hidden">
+<hr>
 <h3>Scheduled Salesforce Certifications:</h3>
 <ul>
   <li><strong>B2C Commerce Developer</strong> &mdash; <em>exam scheduled for June 25, 2021</em></li>
@@ -19,6 +22,8 @@
   <li><strong>Marketing Cloud Admin</strong> &mdash; <em>expected completion in Q4, 2021</em></li>
   <li><strong>Marketing Cloud Email Specialist</strong> &mdash; <em>expected completion in Q4, 2021</em></li>
 </ul>
+</div>
+  
 <hr>
 <div align="center">
   
