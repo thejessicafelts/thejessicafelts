@@ -6,23 +6,6 @@
 💌 &nbsp; <strong>Contact Me &nbsp; &mdash;</strong> &nbsp; @thejessicafelts on all social platforms.<br />
 ⚡ &nbsp; <strong>Fun Fact &nbsp; &mdash;</strong> &nbsp; I'm a self-taught developer with a love for learning.
 <br />
-
-<div style="display:hidden">
-<hr>
-<h3>Scheduled Salesforce Certifications:</h3>
-<ul>
-  <li><strong>B2C Commerce Developer</strong> &mdash; <em>exam scheduled for June 25, 2021</em></li>
-</ul>
-<h3>Expected Salesforce Certifications:</h3>
-<ul>
-  <li><strong>JavaScript Developer I</strong> &mdash; <em>expected completion in Q3, 2021</em></li>
-  <li><strong>Platform App Builder</strong> &mdash; <em>expected completion in Q3, 2021</em></li>
-  <li><strong>Platform Developer I</strong> &mdash; <em>expected completion in Q3, 2021</em></li>
-  <li><strong>Administrator</strong> &mdash; <em>expected completion in Q4, 2021</em></li>
-  <li><strong>Marketing Cloud Admin</strong> &mdash; <em>expected completion in Q4, 2021</em></li>
-  <li><strong>Marketing Cloud Email Specialist</strong> &mdash; <em>expected completion in Q4, 2021</em></li>
-</ul>
-</div>
   
 <hr>
 <div align="center">
