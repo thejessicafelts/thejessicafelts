@@ -27,4 +27,9 @@
 
 ![](https://komarev.com/ghpvc/?username=thejessicafelts&label=Visitors&color=cd395e)
 
+  <br />
+  
+[![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejessicafelts)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 </div>
