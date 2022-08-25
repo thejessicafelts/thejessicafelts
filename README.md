@@ -1,8 +1,8 @@
 </div> 
 
-<strong>Jessica Felts</strong> is a Software Developer, primarility specializing in Frontend Development, and custom implementations on the Salesforce platform. While currently focusing on Salesforce [Commerce](https://www.salesforce.com/products/commerce-cloud/overview/) and [Marketing](https://www.salesforce.com/products/marketing-cloud/overview/) Clouds, Jessica aso had experience on [Experience](https://www.salesforce.com/products/experience-cloud/overview/) Cloud (previously Community Cloud), and [Service](https://www.salesforce.com/products/service-cloud/overview/) Cloud. Furthermore, Jessica has extensive experience in general Frontend Development outside of the Salesforce ecosystem.
+<strong>Jessica Felts</strong> is a Senior Frontend Developer, with nearly a decade of experience across multiple platforms (Salesforce, WordPress, etc.) and industries (Finance, Mortgage, Sporting Goods, etc.). Jessica has a passion for beautifully designed, and thoughtfully developed websites and applications, and takes a special interest in ADA compliance and utilizing best practices while coding.
 <br /><hr>
-🗨️ &nbsp; <strong>Ask Me About &nbsp; &mdash;</strong> &nbsp; Salesforce &nbsp; <strong>&centerdot;</strong> &nbsp; UI Development &nbsp; <strong>&centerdot;</strong> &nbsp; UX Design &nbsp; <strong>&centerdot;</strong> &nbsp; Accessibility<br />
+🗨️ &nbsp; <strong>Ask Me About &nbsp; &mdash;</strong> &nbsp; UI Development &nbsp; <strong>&centerdot;</strong> &nbsp; UX Design &nbsp; <strong>&centerdot;</strong> &nbsp; Web Accessibility Standards<br />
 💌 &nbsp; <strong>Contact Me &nbsp; &mdash;</strong> &nbsp; @thejessicafelts on all social platforms.<br />
 ⚡ &nbsp; <strong>Fun Fact &nbsp; &mdash;</strong> &nbsp; I'm an autodidactic developer with a love for learning.
 <br />
