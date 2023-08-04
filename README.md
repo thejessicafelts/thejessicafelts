@@ -1,7 +1,9 @@
 <div>
 
   <div align="center">
-    <img src="https://img.shields.io/badge/Open%20to%20Work-228B22" height="50" width="auto">
+    <a href="https://www.linkedin.com/in/thejessicafelts" target="_blank">
+      <img src="https://img.shields.io/badge/Open%20to%20Work-228B22" height="50" width="auto">
+    </a>
   </div>
   <br/>
   <br/>
