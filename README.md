@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQGgiq5gYza8EA/profile-displaybackgroundimage-shrink_350_1400/0/1718419194872?e=1723680000&v=beta&t=p1M-pXkBSk4KgHPAbAFRwscX5J_DtrLRA2fA11lrfGA" />
+<img src="https://media.licdn.com/dms/image/D5616AQFCkBqeJov_Wg/profile-displaybackgroundimage-shrink_350_1400/0/1718474152600?e=1723680000&v=beta&t=i6bpiht1hATRWKQR-gHzyYUI-ug2q_VkkSYI4VtuPqo" />
 <div>
   <strong>Welcome!</strong> My name is Jessica. I am a Software Engineer with over a decade of professional experience, complemented by an academic background in Neuroscience and Biomedical Sciences. My expertise spans all aspects of Software Engineering (applications, websites, ecommerce, etc.), Scientific Data Analysis, Data Visualization, and more, enabling me to effectively communicate within my project teams, and with stakeholders. With a firm understanding of multiple languages, libraries, and frameworks, and experience working on various platforms, I excel in mentoring and leading cross-functional teams from project planning through deployment. Furthermore, I am committed to User Accessibility and Data Privacy throughout all of my projects.
   <br/>
