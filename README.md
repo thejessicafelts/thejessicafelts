@@ -1,5 +1,5 @@
 <div>
-  <strong>Welcome!</strong> My name is Jessica, and I am a Lead Software Engineer, with over a decade of professional experience. My expertise in Software Engineering and Accessibility Compliance has helped me effectively communicate with stakeholders to fulfill project requirements while maintaining a strong focus on the end user. A firm understanding of multiple languages, libraries, and frameworks, and experience working on multiple platforms, have served me well as I mentor and lead teams from project planning through deployment.
+  <strong>Welcome!</strong> My name is Jessica. I am a Software Engineer with over a decade of professional experience, complemented by an academic background in Neuroscience and Biomedical Sciences. My expertise spans all aspects of Software Engineering (applications, websites, ecommerce, etc.), Scientific Data Analysis, Data Visualization, and more, enabling me to effectively communicate within my project teams, and with stakeholders. With a firm understanding of multiple languages, libraries, and frameworks, and experience working on various platforms, I excel in mentoring and leading cross-functional teams from project planning through deployment. Furthermore, I maintain a commitment to User Accessibility and Data Privacy guidelines in all of my projects.
   <br/>
   <br/>
   <div align="center">
