@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGwCooz2Su6sg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728888090585?e=1734566400&v=beta&t=I4cADm2kZ2q_Vper1HSLou7hKHE6uppRqV4_oYwbs_8" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGwCooz2Su6sg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728888090585?e=1742428800&v=beta&t=6AjmNauA_N0qnoJzwdNvDpC-m8jUwibYXCtjZ2q5_Iw" />
 <div>
   <strong>Welcome!</strong> My name is Jessica Felts, and I am a Senior UI Engineer and Accessibility Advocate with over a decade of experience crafting high-performance, user-centric digital solutions. I specialize in building scalable front-end architectures, optimizing accessibility, and enhancing user experiences across diverse platforms.</p>
 
